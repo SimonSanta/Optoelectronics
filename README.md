@@ -31,4 +31,12 @@ More precisely :
 *Fig.3 -  Illuminated double slit aperture results using fft*
 
 ### Fibers simulations and effects in networks
+*Several kind of pulses were analyzed along wth their 2nd and 3rd order dispersion in networks*
 
+![second order gaussian 50](https://user-images.githubusercontent.com/48290004/153409496-670839fd-fc4e-45fc-9c07-683b69b328e0.jpg)
+
+*Fig.4 -  Second order dispersion of a gaussian pulse in network solving both using analytic formula and numerical method*
+
+![Rbs-3rd-1ps](https://user-images.githubusercontent.com/48290004/153409702-0da6a0de-7b62-4aa1-9300-3565b2e54370.png)
+
+*Fig.5 -  Pseudo-random bit sequence third order dispersion in networks, pulse of 1ps* 
